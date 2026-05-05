@@ -18,9 +18,9 @@ about = {
     "inProgress": "Backend",
     "programming": ["python"],
     "tools": ["learning"],
-    "proficient": "python",
+    "proficient": "react,next,python",
     "onGoingWorks": {
-        "course": "python",
+        "course": "full stack",
         "project": [
             "practice set",
             "discord bot"
